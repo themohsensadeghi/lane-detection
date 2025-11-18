@@ -29,5 +29,5 @@ This implementation is optimized for **Google Colab**, supports **video processi
 
 ### ✔ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/lane-detection.git
+git clone https://github.com/themohsensadeghi/lane-detection.git
 cd lane-detection
